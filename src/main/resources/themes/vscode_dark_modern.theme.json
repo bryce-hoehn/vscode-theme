@@ -28,8 +28,8 @@
       "acceleratorForeground": "#D0D0D9",
       "acceleratorSelectionForeground": "#D0D0D9",
 
-      "borderColor": "#414141",
-      "disabledBorderColor": "#414141",
+      "borderColor": "#2f2f2f",
+      "disabledBorderColor": "#2f2f2f",
 
       "focusColor": "#24648D",
       "focusedBorderColor": "#4C8CB5",
@@ -101,7 +101,7 @@
       "foreground": "#000000"
     },
 
-    "DebuggerPopup.borderColor": "#414141",
+    "DebuggerPopup.borderColor": "#2f2f2f",
 
     "DefaultTabs": {
       "borderColor": "#484949",
@@ -116,7 +116,7 @@
     "DragAndDrop": {
       "areaForeground": "#DFDFE0",
       "areaBackground": "#363737",
-      "borderColor": "#414141"
+      "borderColor": "#2f2f2f"
     },
 
     "Editor": {
