@@ -5,7 +5,7 @@
   "editorScheme": "/themes/vscode_dark_brighter.xml",
   "ui": {
     "*": {
-      "background": "#181818",
+      "background": "#1e1e1e",
       "foreground": "#DFDFE0",
 
       "infoForeground": "#A9A9AA",
@@ -18,8 +18,8 @@
       "lightSelectionInactiveBackground": "#37373d",
       "lightSelectionInactiveForeground": "#DFDFE0",
 
-      "disabledBackground": "#181818",
-      "inactiveBackground": "#181818",
+      "disabledBackground": "#1e1e1e",
+      "inactiveBackground": "#1e1e1e",
 
       "disabledForeground": "#737374",
       "disabledText": "#737374",
@@ -177,11 +177,11 @@
       }
     },
     "ToolWindow": {
-      "background": "#181818",
+      "background": "#1e1e1e",
       "Header.borderColor": "#ffffff12"
     },
     "Tree": {
-      "background": "#181818"
+      "background": "#1e1e1e"
     },
 
 
@@ -190,7 +190,7 @@
     },
 
     "WelcomeScreen": {
-      "background": "#181818",
+      "background": "#1e1e1e",
       "SidePanel.background": "#1e1e1e",
       "borderColor": "#ffffff12",
       "Projects.background": "#1e1e1e",
