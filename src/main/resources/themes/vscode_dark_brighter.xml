@@ -233,7 +233,7 @@
         <option name="DART_SECONDARY_KEYWORD_WITH_BG">
             <value>
                 <option name="FOREGROUND" value="cc85c6"/>
-                <option name="BACKGROUND" value="1e1e1e"/>
+                <option name="BACKGROUND" value="242424"/>
             </value>
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
@@ -370,7 +370,7 @@
         <option name="DEFAULT_SECONDARY_KEYWORD_WITH_BG">
             <value>
                 <option name="FOREGROUND" value="cc85c6"/>
-                <option name="BACKGROUND" value="1e1e1e"/>
+                <option name="BACKGROUND" value="242424"/>
             </value>
         </option>
         <option name="DEFAULT_SEMICOLON">
@@ -590,7 +590,7 @@
         <option name="JS.FROM_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="cc85c6"/>
-                <option name="BACKGROUND" value="1e1e1e"/>
+                <option name="BACKGROUND" value="242424"/>
             </value>
         </option>
         <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION"/>
@@ -978,7 +978,7 @@
         <option name="PY.CLASS_REFERENCE">
             <value>
                 <option name="FOREGROUND" value="47ccb1"/>
-                <option name="BACKGROUND" value="1e1e1e"/>
+                <option name="BACKGROUND" value="242424"/>
             </value>
         </option>
         <option name="PY.Jupyter.CLASS_REFERENCE">
@@ -1001,7 +1001,7 @@
         <option name="PY.FUNCTION_CALL">
             <value>
                 <option name="FOREGROUND" value="e6e6aa"/>
-                <option name="BACKGROUND" value="1e1e1e"/>
+                <option name="BACKGROUND" value="242424"/>
             </value>
         </option>
         <option name="PY.Jupyter.FUNCTION_CALL">
@@ -1013,7 +1013,7 @@
         <option name="PY.IMPORTS">
             <value>
                 <option name="FOREGROUND" value="47ccb1"/>
-                <option name="BACKGROUND" value="1e1e1e"/>
+                <option name="BACKGROUND" value="242424"/>
             </value>
         </option>
         <option name="PY.Jupyter.IMPORTS">
@@ -1050,7 +1050,7 @@
         <option name="PY.SECONDARY_KEYWORD_WITH_BG">
             <value>
                 <option name="FOREGROUND" value="cc85c6"/>
-                <option name="BACKGROUND" value="1e1e1e"/>
+                <option name="BACKGROUND" value="242424"/>
             </value>
         </option>
         <option name="PY.Jupyter.SECONDARY_KEYWORD_WITH_BG">
@@ -1079,7 +1079,7 @@
         </option>
         <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
             <value>
-                <option name="BACKGROUND" value="1e1e1e"/>
+                <option name="BACKGROUND" value="242424"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -1167,7 +1167,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="d4d4d4"/>
-                <option name="BACKGROUND" value="1e1e1e"/>
+                <option name="BACKGROUND" value="242424"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -1186,7 +1186,7 @@
         <option name="TS.FROM_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="cc85c6"/>
-                <option name="BACKGROUND" value="1e1e1e"/>
+                <option name="BACKGROUND" value="242424"/>
             </value>
         </option>
         <option name="TS.MODULE_KEYWORD">
@@ -1229,14 +1229,14 @@
         <option name="XML_PROLOGUE">
             <value>
                 <option name="FOREGROUND" value="d4d4d4"/>
-                <option name="BACKGROUND" value="1e1e1e"/>
+                <option name="BACKGROUND" value="242424"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
         <option name="XML_TAG">
             <value>
                 <option name="FOREGROUND" value="d4d4d4"/>
-                <option name="BACKGROUND" value="1e1e1e"/>
+                <option name="BACKGROUND" value="242424"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
